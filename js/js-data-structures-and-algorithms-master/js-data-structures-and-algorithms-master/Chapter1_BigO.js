@@ -7,6 +7,7 @@ function exampleLinear(n) {
 }
 //console.log(exampleLinear(10))
 
+//multiple loop
 function exampleQuadratic(n) {
   for (var i = 0; i < n; i++) {
     console.log(i);
