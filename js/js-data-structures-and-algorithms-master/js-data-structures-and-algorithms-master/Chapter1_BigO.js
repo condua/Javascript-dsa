@@ -16,7 +16,7 @@ function exampleQuadratic(n) {
     }
   }
 }
-// console.log(exampleQuadratic(10))
+// console.log(exampleQuadratic(10));
 
 function exampleCubic(n) {
   for (var i = 0; i < n; i++) {
@@ -34,7 +34,6 @@ function exampleLogarithmic(n) {
   for (var i = 1; i < n; i = i * 2) {
     console.log(i);
   }
-  
 }
 // exampleLinear(3);
 // exampleQuadratic(3);
